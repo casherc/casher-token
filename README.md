@@ -12,7 +12,7 @@
 - **Decimals**: 18
 - **Total Supply**: 3,000,000,000 CASHER
 - **Circulating Supply (Listed on DEXs)**: 300,000,000 CASHER
-- **Platform**: Binance Smart Chain (BEP-20)
+- **Platform**: BNB Smart Chain (BEP-20)
 
 ---
 
